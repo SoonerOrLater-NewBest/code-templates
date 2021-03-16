@@ -1,0 +1,8 @@
+{
+    "description": "枚举常量",
+    "withoutDirectory": true,
+    "variables": [
+        { "name": "name", "type": "input", "message": "input file name" },
+        { "name": "items", "type": "input", "message": "input enum value, like: {key1: { value: 'backendValue', label: '展示名称' }}" }
+    ]
+}
