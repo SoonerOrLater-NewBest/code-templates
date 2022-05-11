@@ -1,0 +1,7 @@
+{
+    "withoutDirectory": true,
+    "description": "异步常量, 如后端的mapping信息",
+    "variables": [
+        { "name": "name", "type": "input", "message": "file name" }
+    ]
+}

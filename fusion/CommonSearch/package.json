@@ -1,0 +1,6 @@
+{
+    "description": "基础搜索",
+    "variables": [
+        { "name": "name", "type": "input", "message": "file name" }
+    ]
+}

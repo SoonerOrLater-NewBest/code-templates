@@ -1,0 +1,6 @@
+{
+    "description": "基础表格",
+    "variables": [
+        { "name": "name", "type": "input", "message": "file name" }
+    ]
+}

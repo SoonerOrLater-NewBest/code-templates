@@ -1,0 +1,7 @@
+{
+    "description": "axios封装",
+    "withoutDirectory": true,
+    "variables": [
+        { "name": "name", "type": "input", "message": "input file name" }
+    ]
+}

@@ -1,0 +1,1 @@
+export { CommonItemDetail } from './CommonItemDetail'

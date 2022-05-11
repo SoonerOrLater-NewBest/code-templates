@@ -1,0 +1,6 @@
+{
+    "description": "表单基础模板",
+    "variables": [
+        { "name": "name", "type": "input", "message": "file name" }
+    ]
+}
